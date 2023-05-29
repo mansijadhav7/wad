@@ -1,0 +1,3 @@
+class : Teit
+name:mansi jadhav
+subject:wad
